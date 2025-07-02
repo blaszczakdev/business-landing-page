@@ -1,33 +1,34 @@
-# Szablon Strony Firmowej – Landing Page
+# Business Landing Page
 
-Nowoczesny i estetyczny szablon strony głównej wykonany w HTML i CSS.  
-Zaprojektowany jako uniwersalna strona promocyjna dla firmy, produktu lub portfolio.
+A responsive landing page template for service-based businesses. Built with HTML5 and CSS3, designed with performance and clarity in mind.
 
-## 📌 Zawartość strony
+## 🔗 Live Demo
 
-- Pasek nawigacyjny z linkami do sekcji
-- Sekcja powitalna z tłem i CTA („Kup teraz”)
-- Sekcja ofertowa z dziewięcioma polami ofert
-- Stopka z informacjami kontaktowymi i prawami autorskimi
-- Stylizacja w ciemnym motywie z niebieskimi akcentami
+https://blaszczakdev.github.io/projects/
 
-## 🔧 Technologie
-- HTML5 (semantyczna struktura)
-- CSS3 (Flexbox + Grid)
-- Google Fonts: Montserrat
-- Efekty gradientowe (`-webkit-background-clip: text`)
-- Responsywność (dla ekranów mobilnych i tabletów)
+## 🧰 Technologies Used
 
-## 📁 Struktura katalogu
+- HTML5  
+- CSS3  
+- Responsive Web Design (RWD)  
+- Git & GitHub  
+- GitHub Pages  
 
-szablon/
-├── index.html
-├── style.css
-├── reset.css
-└── bg.jpg
+## 🚀 Getting Started
 
-## ✍️ Autor
-Szymon Błaszczak
+To run locally:
 
-## 🌐 Demo (GitHub Pages)
-Link zostanie dodany po publikacji repozytorium.
+```bash
+git clone https://github.com/blaszczakdev/projects.git
+cd projects
+open index.html
+```
+
+## 📫 Contact
+
+If you'd like to get in touch, feel free to reach me at:  
+📧 szymonblaszczak.dev@gmail.com
+
+## ✅ Status
+
+Project complete. More landing pages and UI-focused projects coming soon!
