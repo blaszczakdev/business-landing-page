@@ -4,7 +4,7 @@ A responsive landing page template for service-based businesses. Built with HTML
 
 ## 🔗 Live Demo
 
-https://blaszczakdev.github.io/projects/
+https://blaszczakdev.github.io/business-landing-page/
 
 ## 🧰 Technologies Used
 
